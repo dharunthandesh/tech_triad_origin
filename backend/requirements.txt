@@ -1,0 +1,8 @@
+flask
+twilio
+google-generativeai
+python-dotenv
+requests
+pandas
+supabase
+openpyxl
